@@ -1,0 +1,18 @@
+body {
+    background-color: #a0e3fd;
+}
+
+p, a {
+    font-family: 'Lucida Sans', sans-serif;
+    color: #00008b;
+}
+
+h1 {
+    font-family: 'Lucida Sans', sans-serif;
+    color: #00008b;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+}
